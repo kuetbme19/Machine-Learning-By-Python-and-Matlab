@@ -1,0 +1,2 @@
+1.Must Include Data Set to the file where the program file exist
+2.Accuracy level test =81% and Train=85%
